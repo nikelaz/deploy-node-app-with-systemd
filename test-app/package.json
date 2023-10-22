@@ -1,0 +1,11 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "This is a sample Node.js HTTP server used to demonstrate how to deploy a Node.js app as a systemd service",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Nikola Lazarov",
+  "license": "MIT"
+}
