@@ -2,7 +2,7 @@
 
 This repository is an extra resource to an educational YouTube video:
 
-`YouTube Link Coming Soon..`
+[**Deploy a Node.js Application as a Systemd Service**](https://youtu.be/vCcNu2A2bhQ?si=gkFD0RHBAGqO98y7)
 
 # How to Use This Repository
 
